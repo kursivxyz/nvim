@@ -67,4 +67,6 @@ return require('packer').startup(function(use)
                 {'rafamadriz/friendly-snippets'},
             }
         }
+
+        use('ThePrimeagen/vim-be-good')
     end)
